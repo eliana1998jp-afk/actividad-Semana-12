@@ -1,0 +1,21 @@
+Modelo de datos
+
+Entidad: Causa
+
+- id
+- titulo
+- descripcion
+- fecha
+
+Esta entidad almacena la información principal de cada petición o causa creada por la comunidad.
+
+-------------------------------------
+
+Entidad: Apoyo
+
+- id
+- causa_id
+- nombre
+- fecha
+
+Esta entidad registra cada ciudadano que apoya una causa y permite relacionar cada apoyo con la petición correspondiente mediante el campo causa_id.
