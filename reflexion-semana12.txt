@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede convertirse en una herramienta muy importante para
+fortalecer la participación ciudadana y la organización comunitaria. Comprendí que una aplicación bien
+diseñada facilita que las personas ejerzan sus derechos de manera más rápida y transparente. También
+aprendí la importancia de proteger los datos personales y utilizar únicamente la información necesaria. 
+Conocí conceptos sobre bases de datos, automatización, generación de documentos y funcionamiento del 
+backend. Además, entendí que el trabajo colaborativo y el uso de herramientas como GitHub permiten
+organizar mejor los proyectos tecnológicos. Considero que estos conocimientos pueden aplicarse en
+iniciativas comunitarias para mejorar la comunicación, promover la 
+participación y generar un impacto social positivo en beneficio de la comunidad.
